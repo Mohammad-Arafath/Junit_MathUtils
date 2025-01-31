@@ -1,6 +1,7 @@
 package Junit_mathutils;
 import Junit_mathutils.MathUtils;
 import static org.junit.Assert.*;
+import static org.junit.Assert.assertEquals;
 import org.junit.Test;
 
 public class MathUtilsTest {
