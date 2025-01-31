@@ -1,4 +1,5 @@
 package Junit_mathutils;
+import Junit_mathutils.MathUtils;
 import static org.junit.jupiter.api.Assertions.*;
 import org.junit.jupiter.api.Test;
 
